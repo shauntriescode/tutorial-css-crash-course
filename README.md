@@ -1,2 +1,5 @@
 # css-crash-course
-My CSS Crash Course Project
+
+Followed a tutorial to create the following:
+
+A CSS Crash Course Project
